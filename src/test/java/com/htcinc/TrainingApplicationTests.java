@@ -9,8 +9,29 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class TrainingApplicationTests {
 
+
+	//	1.
 	@Test
-	public void contextLoads() {
+	public void ifContextLoadsCorrectly() {
 	}
+
+
+	//	2.
+
+
+	//	3.
+
+
+
+	//	4.
+
+
+
+
+	//	5.
+
+
+
+	//	6.
 
 }
